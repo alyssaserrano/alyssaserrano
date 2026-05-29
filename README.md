@@ -2,7 +2,7 @@
 
 <h1 align="center">Alyssa Serrano</h1>
 <p align="center">
-  M.S. Computer Science @ San Diego State University<br/>
+  PhD Computer Science @ UC Irvine & San Diego State University<br/>
   Resource-aware autonomous systems • Real-time scheduling • Embedded systems optimization
 </p>
 
