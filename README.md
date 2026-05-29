@@ -29,16 +29,6 @@ My projects center on *measuring what matters* (latency variance, throughput, me
 
 **Toolkit:** C/C++, CUDA, Python, ROS, Docker, Bash/make, Nsight Compute; CI/CD with GitHub/GitLab
 
-## GitHub stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alyssaserrano&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyssaserrano&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alyssaserrano&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
 ## Stack
 <p align="center">
   <img src="https://img.shields.io/badge/C-C0A000?style=for-the-badge&logo=c&logoColor=white" alt="C" />
