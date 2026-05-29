@@ -39,7 +39,12 @@ My projects center on *measuring what matters* (latency variance, throughput, me
 
 ## Cool stuff
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alyssaserrano&style=flat&color=blueviolet" alt="Profile views" />
+  <!-- Minimal badges (no counters) -->
+  <img src="https://img.shields.io/badge/C-C0A000?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 <details>
