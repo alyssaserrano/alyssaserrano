@@ -1,8 +1,12 @@
 <!-- Profile README: alyssaserrano -->
 
+<p align="center">
+  <img src="./assets/profile_banner.png" alt="Cereal Cube Engineer banner" />
+</p>
+
 <h1 align="center">Alyssa Serrano</h1>
 <p align="center">
-  PhD Computer Science @ UC Irvine & San Diego State University<br/>
+  M.S. Computer Science @ San Diego State University<br/>
   Resource-aware autonomous systems • Real-time scheduling • Embedded systems optimization
 </p>
 
