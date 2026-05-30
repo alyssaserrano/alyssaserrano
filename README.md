@@ -1,13 +1,5 @@
 <!-- Profile README: alyssaserrano -->
 
-<p align="center">
-  <img
-    src="./assets/profile_banner.png"
-    alt="Cereal Cube Engineer banner"
-    style="max-width: 900px; width: 100%; height: auto;"
-  />
-</p>
-
 <h1 align="center">Alyssa Serrano</h1>
 <p align="center">
   PhD Computational Science @ UC Irvine and San Diego State University<br/>
