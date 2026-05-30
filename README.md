@@ -19,7 +19,7 @@ My projects center on *measuring what matters* (latency variance, throughput, me
 - **Real-time optimization:** profiling-driven changes to accelerate compute-intensive pipelines while keeping behavior stable
 - **Reproducible benchmarking:** harnesses/containers so results are repeatable across loads and environments
 
-**Toolkit:** C/C++, CUDA, Python, ROS, Docker, Bash/make, Nsight Compute; CI/CD with GitHub/GitLab
+**Toolkit:** C/C++, CUDA, Python, ROS, Docker, Bash/make, Nsight Compute; CI/CD with GitHub
 
 ## Stack
 <p align="center">
