@@ -12,6 +12,7 @@
   <a href="https://github.com/alyssaserrano"><img src="https://img.shields.io/badge/GitHub-alyssaserrano-181717?style=flat&logo=github&logoColor=white" alt="GitHub profile" /></a>
   <a href="mailto:alyssaserrano@acm.org"><img src="https://img.shields.io/badge/Email-alyssaserrano%40acm.org-BD351A?style=flat&logo=gmail&logoColor=white" alt="Email Alyssa" /></a>
   <a href="https://www.acm.org/"><img src="https://img.shields.io/badge/Member-ACM-0085CA?style=flat" alt="Association for Computing Machinery member" /></a>
+  <a href="https://www.siam.org/"><img src="https://img.shields.io/badge/Member-SIAM-6B2D5C?style=flat" alt="Society for Industrial and Applied Mathematics member" /></a>
   <a href="https://brdsdsu.github.io/"><img src="https://img.shields.io/badge/Lab-Computer%20Systems%20Intelligence-5C2D91?style=flat" alt="Computer Systems Intelligence Lab" /></a>
 </p>
 
@@ -19,7 +20,7 @@
 
 ## About me
 
-I am a joint PhD student in Computational Science at the **University of California, Irvine** and **San Diego State University**, working as a Graduate Research Assistant in the [Computer Systems Intelligence Lab](https://brdsdsu.github.io/). I am also a proud **member of the Association for Computing Machinery (ACM)**.
+I am a joint PhD student in Computational Science at the **University of California, Irvine** and **San Diego State University**, working as a Graduate Research Assistant in the [Computer Systems Intelligence Lab](https://brdsdsu.github.io/). I am also a proud member of the **Association for Computing Machinery (ACM)** and the **Society for Industrial and Applied Mathematics (SIAM)**.
 
 My work focuses on making autonomous and robotics workloads more **predictable, efficient, and reproducible** on embedded platforms. I enjoy finding the performance trade-offs that matter—from GPU memory pressure and kernel concurrency to latency variance and storage throughput—and turning those findings into practical systems improvements.
 
