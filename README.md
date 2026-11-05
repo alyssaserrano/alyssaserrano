@@ -88,7 +88,7 @@ I support computer science students through teaching, office hours, code reviews
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
 </p>
 
-**Also:** PyTorch · TensorRT · ONNX · Hugging Face · ROS 2 · Gazebo · CARLA · Bash · Make · GitHub Actions · Nsight Compute/Systems · fio · cgroup-v2 · AWS
+**Also:** Python · Java · ONNX · ROS 2 · Gazebo · CARLA · Bash · Make · GitHub Actions · Nsight Compute/Systems · fio · cgroup-v2 · AWS
 
 ## Education
 
