@@ -9,7 +9,7 @@
 **Resource-aware autonomous systems · Real-time scheduling · Embedded GPU optimization**
 
 <p>
-  <a href="https://github.com/alyssaserrano"><img src="https://img.shields.io/badge/GitHub-alyssaserrano-181717?style=flat&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/alyssa-serrano-b3453a30b"><img src="https://img.shields.io/badge/LinkedIn-Alyssa%20Serrano-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
   <a href="mailto:alyssaserrano@acm.org"><img src="https://img.shields.io/badge/Email-alyssaserrano%40acm.org-BD351A?style=flat&logo=gmail&logoColor=white" alt="Email Alyssa" /></a>
   <a href="https://www.acm.org/"><img src="https://img.shields.io/badge/Member-ACM-0085CA?style=flat" alt="Association for Computing Machinery member" /></a>
   <a href="https://www.siam.org/"><img src="https://img.shields.io/badge/Member-SIAM-6B2D5C?style=flat" alt="Society for Industrial and Applied Mathematics member" /></a>
