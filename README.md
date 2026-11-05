@@ -22,7 +22,7 @@
 
 I am a joint PhD student in Computational Science at the **University of California, Irvine** and **San Diego State University**, working as a Graduate Research Assistant in the [Computer Systems Intelligence Lab](https://brdsdsu.github.io/). I am also a proud member of the **Association for Computing Machinery (ACM)** and the **Society for Industrial and Applied Mathematics (SIAM)**.
 
-My work focuses on making autonomous and robotics workloads more **predictable, efficient, and reproducible** on embedded platforms. I enjoy finding the performance trade-offs that matter—from GPU memory pressure and kernel concurrency to latency variance and storage throughput—and turning those findings into practical systems improvements.
+My work focuses on making autonomous and robotics workloads more **predictable, efficient, and reproducible** on embedded platforms. I enjoy finding the performance trade-offs that matter; from GPU memory pressure and kernel concurrency to latency variance and storage throughput. And progressively turning those findings into practical systems improvements.
 
 ## Research focus
 
