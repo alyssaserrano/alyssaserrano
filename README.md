@@ -4,7 +4,7 @@
 
 # Alyssa Serrano
 
-### PhD Computational Science · UCI × SDSU
+### PhD Computational Science · UCI & SDSU
 
 **Resource-aware autonomous systems · Real-time scheduling · Embedded GPU optimization**
 
