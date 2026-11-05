@@ -93,7 +93,8 @@ I support computer science students through teaching, office hours, code reviews
 
 - **Joint PhD in Computational Science**, University of California, Irvine × San Diego State University — *2026–present*
 - **B.S. in Computer Science**, San Diego State University — *2025, Summa Cum Laude*
-- **A.S. in Computer Science**, Grossmont Community College — *2023*
+- **A.S. in Computer Science**, Grossmont Community College — *2023, Honors*
+- **A.S. in University Studies: Mathematics, Natural Sciences, and Computer Science**, Grossmont Community College — *Honors*
 
 ## Posters & funding
 
